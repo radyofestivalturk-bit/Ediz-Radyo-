@@ -1,0 +1,6 @@
+{
+  "name": "RadyoTR - 400+ Türk Radyosu",
+  "description": "400'den fazla Türk radyo istasyonunu içeren, kategorilere göre ayrılmış modern radyo dinleme uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
